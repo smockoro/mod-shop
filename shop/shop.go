@@ -7,7 +7,7 @@ import (
 )
 
 func ShopHello() {
-	fmt.Println("mod Shop v1.0.0")
-	user := u.User{Name: "Mod account Gopher", Age: 20}
+	fmt.Println("mod Shop v1.0.2")
+	user := u.User{Name: "Mod Shop Gopher", Age: 20}
 	user.UserHello()
 }
