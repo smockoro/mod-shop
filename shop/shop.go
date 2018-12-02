@@ -1,4 +1,4 @@
-package account
+package shop
 
 import (
 	"fmt"
